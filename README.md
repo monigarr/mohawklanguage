@@ -24,7 +24,7 @@ Mohawk Language XR projects
 <br />
 <div align="center">
   <a href="https://github.com/monigarr/mohawklanguage">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Screenshot 2022-08-18 020221.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Mohawk Language XR ReadMe</h3>
