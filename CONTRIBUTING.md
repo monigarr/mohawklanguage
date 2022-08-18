@@ -12,7 +12,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] 
 
 ## How to contribute to Mohawk Language XR
 
@@ -58,4 +58,4 @@ Mohawk Language XR Team
 [issues-url]: https://github.com/monigarr/mohawklanguage/issues
 [license-shield]: https://img.shields.io/github/license/monigarr/mohawklanguage.svg?style=for-the-badge
 [license-url]: https://github.com/monigarr/mohawklanguage/blob/master/LICENSE.txt
-[linkedin-url]: https://www.linkedin.com/in/monigarr
+[linkedin-url]: https://www.linkedin.com/in/monigarr 
