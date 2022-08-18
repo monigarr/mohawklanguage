@@ -58,3 +58,4 @@ Mohawk Language XR Team
 [issues-url]: https://github.com/monigarr/mohawklanguage/issues
 [license-shield]: https://img.shields.io/github/license/monigarr/mohawklanguage.svg?style=for-the-badge
 [license-url]: https://github.com/monigarr/mohawklanguage/blob/master/LICENSE.txt
+[linkedin-url]: https://www.linkedin.com/in/monigarr
