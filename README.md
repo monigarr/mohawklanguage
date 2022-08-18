@@ -200,14 +200,7 @@ Project Link: [https://github.com/monigarr/mohawklanguage](https://github.com/mo
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* TODO: update this
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -227,7 +220,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/monigarr/mohawklanguage/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/monigarr
-[product-screenshot]: Screenshot 2022-08-18 020221.png
+[product-screenshot]: 
 [UE-url]: https://www.unrealengine.com?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Unity-url]: https://unity3d.com/
 [Blender-url]: https://blender.org?style=for-the-badge&logo=react&logoColor=61DAFB
