@@ -1,5 +1,5 @@
-# mohawklanguage
-Mohawk Language XR projects
+# Mohawk Language XR
+Mohawk Language XR projects: Kanien’keha templates for augmented reality, virtual reality, spatial audio and more.
 
 <a name="readme-top"></a>
 
