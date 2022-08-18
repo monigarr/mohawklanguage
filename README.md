@@ -96,11 +96,13 @@ Use the `mohawklanguage` repo to get started.
 
 This section lists major requirements / frameworks / libraries used to bootstrap your project. Add-ons/plugins will be in the acknowledgements section.
 
-* [![̱UnRealEngine.com][UE]][UE-url]
-* [![Unity3D.com][Unity3D]][Unity-url]
-* [![Blender.org][Blender]][Blender-url]
-* [![Daz3D.com][Daz3D]][Daz-url]
-* [![MohawkLanguage.ca][MohawkLanguage.ca]][MohawkLanguage-url]
+* ̱̱̱[![Git]][Git-url]
+* [![GitDocs][GitDocs-url]
+* [![̱UnRealEngine.com]][UE-url]
+* [![Unity3D.com]][Unity-url]
+* [![Blender.org]]Blender-url]
+* [![Daz3D.com]][Daz-url]
+* [![MohawkLanguage.ca]][MohawkLanguage-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -220,8 +222,10 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/monigarr/mohawklanguage/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/monigarr
-[UE-url]: https://www.unrealengine.com?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Git-url]: https://git-scm.com/
+[UE-url]: https://www.unrealengine.com
+[GitDocs-url]: https://docs.github.com/en
 [Unity-url]: https://unity3d.com/
-[Blender-url]: https://blender.org?style=for-the-badge&logo=react&logoColor=61DAFB
+[Blender-url]: https://blender.org
 [Daz-url]: https://daz3d.com/
 [MohawkLanguage-url]: https://mohawklanguage.ca
