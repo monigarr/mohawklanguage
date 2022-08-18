@@ -98,8 +98,8 @@ Use the `mohawklanguage` repo to get started.
 This section lists major requirements / frameworks / libraries used to bootstrap your project. Add-ons/plugins will be in the acknowledgements section.
 
 * [![Alicebot]][Alicebot-url]
-* [![Amazon AI]][AmazonAI-url]
-* ̱̱̱̱̱[![Android Studio]][AndroidStudio-url]
+* [![Amazon AI]][AmazonAI-url]̱
+* [![Android Studio]][AndroidStudio-url]
 * [![ARCore]][ARCore-url]
 * [![ARKit]][ARKit-url]
 * [![Blender.org]][Blender-url]
@@ -108,7 +108,7 @@ This section lists major requirements / frameworks / libraries used to bootstrap
 * [![Git]][Git-url]
 * [![GitDocs]][GitDocs-url]
 * [![Google AI]][GoogleAI-url]
-* [![[Google VR SDKs][[GoogleVRSDKs-url]]
+* [![[Google VR SDKs]][GoogleVRSDKs-url]]
 * [![Kotlin]][Kotlin-url]
 * [![Krita]][Krita-url]
 * [![MetaAI]][MetaAI-url]
