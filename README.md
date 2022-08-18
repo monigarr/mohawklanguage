@@ -227,7 +227,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/monigarr/mohawklanguage/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/monigarr
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: Screenshot 2022-08-18 020221.png
 [UE-url]: https://www.unrealengine.com?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Unity-url]: https://unity3d.com/
 [Blender-url]: https://blender.org?style=for-the-badge&logo=react&logoColor=61DAFB
