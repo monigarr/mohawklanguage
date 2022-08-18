@@ -97,7 +97,7 @@ Use the `mohawklanguage` repo to get started.
 This section lists major requirements / frameworks / libraries used to bootstrap your project. Add-ons/plugins will be in the acknowledgements section.
 
 * [![Alicebot]][Alicebot-url]
-* [![Amazon AI]][AmazonAI-url
+* [![Amazon AI]][AmazonAI-url]
 * ̱̱̱̱̱[![Android Studio]][AndroidStudio-url]
 * [![Blender.org]][Blender-url]
 * [![Daz3D.com]][Daz-url]
@@ -109,7 +109,7 @@ This section lists major requirements / frameworks / libraries used to bootstrap
 * [![Krita]][Krita-url]
 * [![MetaAI]][MetaAI-url]
 * [![MohawkLanguage.ca]][MohawkLanguage-url]
-* [![Nvidia AI][NvidiaAI-url]
+* [![Nvidia AI]][NvidiaAI-url]
 * [![Swift]][Swift-url]
 * [![̱UnRealEngine.com]][UE-url]
 * [![Unity3D.com]][Unity-url]
