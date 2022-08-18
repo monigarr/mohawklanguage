@@ -96,13 +96,19 @@ Use the `mohawklanguage` repo to get started.
 
 This section lists major requirements / frameworks / libraries used to bootstrap your project. Add-ons/plugins will be in the acknowledgements section.
 
-* ̱̱̱[![Git]][Git-url]
+* ̱̱̱̱̱[![Android Studio]][AndroidStudio-url]
+* [![Blender.org]][Blender-url]
+* [![Daz3D.com]][Daz-url]
+* [![Flutter]][Flutter-url]
+* [![Git]][Git-url]
 * [![GitDocs]][GitDocs-url]
+* [![Kotlin]][Kotlin-url]
+* [![Krita]][Krita-url]
+* [![MohawkLanguage.ca]][MohawkLanguage-url]
+* [![Swift]][Swift-url]
 * [![̱UnRealEngine.com]][UE-url]
 * [![Unity3D.com]][Unity-url]
-* [![Blender.org]]Blender-url]
-* [![Daz3D.com]][Daz-url]
-* [![MohawkLanguage.ca]][MohawkLanguage-url]
+* [![XCode]][Xcode-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -117,6 +123,8 @@ To get a local copy of ’mohawklanguage’ up and running follow these simple e
 ### Prerequisites
 
 #TODO: List Equipment, Software, Licenses Required
+* GitHub Account
+* Membership with Kanien'k
 
 ### Installation
 
@@ -199,10 +207,16 @@ Mohawk Language XR Project: [https://github.com/monigarr/mohawklanguage](https:/
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+O:nen kati skanikonren teiotinonhweraton ne : 
 
-Use this space to list resources you find helpful and would like to give credit to.
+Nia:wen / gratitude to all the following:
 
-* TODO: update this
+* Kanien'kéha, Haudenosaunee, Mohawk, Onkwehonwe Survivors of Indian Residential Schools, Day Schools, 60s / 70s / 80s / 90s modern day Scoops, Systemic Genocidal Policies & Organizations...
+* Kanien’kéha speakers, mentors, teachers, students, supporters.
+* Kanien’kéhake individuals and families.
+* Kanien’kéhake led communities, groups, schools and organizations.
+* Mohawk Language XR Sponsors & Contributors.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,10 +236,16 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/monigarr/mohawklanguage/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/monigarr
+[AndroidStudio-url]: https://developer.android.com/studio
+[Blender-url]: https://www.blender.org
+[Daz-url]: https://www.daz3d.com
+[Flutter-url]: https://flutter.dev/
 [Git-url]: https://git-scm.com/
-[UE-url]: https://www.unrealengine.com
 [GitDocs-url]: https://docs.github.com/en
-[Unity-url]: https://unity3d.com/
-[Blender-url]: https://blender.org
-[Daz-url]: https://daz3d.com/
-[MohawkLanguage-url]: https://mohawklanguage.ca
+[Kotlin-url]: https://kotlinlang.org/
+[Krita-url]: https://krita.org
+[MohawkLanguage-url]: https://www.mohawklanguage.ca
+[Swift-url]: https://www.swift.org/
+[UE-url]: https://www.unrealengine.com
+[Unity-url]: https://www.unity3d.com
+[Xcode-url]: https://developer.apple.com/xcode/
