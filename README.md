@@ -100,17 +100,22 @@ This section lists major requirements / frameworks / libraries used to bootstrap
 * [![Alicebot]][Alicebot-url]
 * [![Amazon AI]][AmazonAI-url]
 * ̱̱̱̱̱[![Android Studio]][AndroidStudio-url]
+* [![ARCore]][ARCore-url]
+* [![ARKit]][ARKit-url]
 * [![Blender.org]][Blender-url]
 * [![Daz3D.com]][Daz-url]
 * [![Flutter]][Flutter-url]
 * [![Git]][Git-url]
 * [![GitDocs]][GitDocs-url]
 * [![Google AI]][GoogleAI-url]
+* [![[Google VR SDKs][[GoogleVRSDKs-url]]
 * [![Kotlin]][Kotlin-url]
 * [![Krita]][Krita-url]
 * [![MetaAI]][MetaAI-url]
 * [![MohawkLanguage.ca]][MohawkLanguage-url]
 * [![Nvidia AI]][NvidiaAI-url]
+* [![Oculus SDKs]][OculusSDKs-url]
+* [![SteamVR]][SteamVR-url]
 * [![Swift]][Swift-url]
 * [![̱UnRealEngine.com]][UE-url]
 * [![Unity3D.com]][Unity-url]
@@ -247,18 +252,23 @@ I hope every one of you know that you are valued, precious and so very much appr
 [Alicebot-url]: https://www.alicebot.org
 [AmazonAI-url]: https://aws.amazon.com/ai/
 [AndroidStudio-url]: https://developer.android.com/studio
+[ARCore-url]: https://developers.google.com/ar
+[ARKit-url]: https://developer.apple.com/augmented-reality/
 [Blender-url]: https://www.blender.org
 [Daz-url]: https://www.daz3d.com
 [Flutter-url]: https://flutter.dev/
 [Git-url]: https://git-scm.com/
 [GitDocs-url]: https://docs.github.com/en
 [GoogleAI-url]: https://ai.google/
+[GoogleVRSDKs-url]: https://developers.google.com/vr
 [Kotlin-url]: https://kotlinlang.org/
 [Krita-url]: https://krita.org
 [MetaAI-url]: https://ai.facebook.com/
 [NvidiaAI-url]: https://www.nvidia.com/en-us/launchpad/ai/
 [MohawkLanguage-url]: https://www.mohawklanguage.ca
+[OculusSDKs-url]: https://developer.oculus.com/
 [Swift-url]: https://www.swift.org/
+[SteamVR-url]: https://developer.valvesoftware.com/wiki/SteamVR
 [UE-url]: https://www.unrealengine.com
 [Unity-url]: https://www.unity3d.com
 [Xcode-url]: https://developer.apple.com/xcode/
