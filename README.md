@@ -15,7 +15,7 @@ Mohawk Language XR projects: Kanien’keha templates for augmented reality, virt
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -32,10 +32,10 @@ Mohawk Language XR projects: Kanien’keha templates for augmented reality, virt
   <p align="center">
     Mohawk Language XR repo to jumpstart your Kanien'keha Revival & Retention projects.
     <br />
-    <a href="https://github.com/monigarr/mohawklanguage"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/monigarr/mohawklanguage"><strong>Explore Docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/monigarr/mohawklanguage">View Demo</a>
+    <a href="https://github.com/monigarr/mohawklanguage">Demos</a>
     ·
     <a href="https://github.com/monigarr/mohawklanguage/issues">Report Bug</a>
     ·
