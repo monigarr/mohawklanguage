@@ -97,7 +97,7 @@ Use the `mohawklanguage` repo to get started.
 This section lists major requirements / frameworks / libraries used to bootstrap your project. Add-ons/plugins will be in the acknowledgements section.
 
 * ̱̱̱[![Git]][Git-url]
-* [![GitDocs][GitDocs-url]
+* [![GitDocs]][GitDocs-url]
 * [![̱UnRealEngine.com]][UE-url]
 * [![Unity3D.com]][Unity-url]
 * [![Blender.org]]Blender-url]
