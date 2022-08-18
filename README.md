@@ -198,7 +198,7 @@ Project Link: [https://github.com/monigarr/mohawklanguage](https://github.com/mo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Use this space to list resources you find helpful and would like to give credit to.
 
 * TODO: update this
 
