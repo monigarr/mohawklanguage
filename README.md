@@ -1,4 +1,4 @@
-# Mohawk Language XR
+# MOHAWK LANGUAGE XR
 Mohawk Language XR projects: Kanien’keha templates for augmented reality, virtual reality, spatial audio and more.
 
 <a name="readme-top"></a>
@@ -27,7 +27,7 @@ Mohawk Language XR projects: Kanien’keha templates for augmented reality, virt
     <img src="Screenshot 2022-08-18 020221.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Mohawk Language XR ReadMe</h3>
+  <h3 align="center">README</h3>
 
   <p align="center">
     Mohawk Language XR repo to jumpstart your Kanien'keha Revival & Retention projects.
@@ -74,7 +74,7 @@ Mohawk Language XR projects: Kanien’keha templates for augmented reality, virt
 
 
 <!-- ABOUT THE PROJECT -->
-## About Mohawk Language XR
+## ABOUT
 
 <!-- TODO: Update image [![Product Name Screen Shot][product-screenshot]](Screenshot 2022-08-18 020221.png)-->
 
@@ -92,7 +92,7 @@ Use the `mohawklanguage` repo to get started.
 
 
 
-### Built With
+### BUILT WITH
 
 This section lists major requirements / frameworks / libraries used to bootstrap your project. Add-ons/plugins will be in the acknowledgements section.
 
@@ -121,16 +121,16 @@ This section lists major requirements / frameworks / libraries used to bootstrap
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## GETTING STARTED
 
 To get a local copy of ’mohawklanguage’ up and running follow these simple example steps.
 
-### Prerequisites
+### PREREQUISITES
 
 #TODO: List Equipment, Software, Licenses Required
 * GitHub Account
 
-### Installation
+### INSTALLATION
 
 ’mohawklanguage’ github repo does not rely on external dependencies or services.
 
@@ -144,7 +144,7 @@ To get a local copy of ’mohawklanguage’ up and running follow these simple e
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## USAGE
 
 #TODO: Add Examples Here
 
@@ -153,9 +153,10 @@ To get a local copy of ’mohawklanguage’ up and running follow these simple e
 
 
 <!-- ROADMAP -->
-## Roadmap
+## ROADMAP
 
-- [x] Setup mohawklanguage repo & sponsor options
+- [x] Setup mohawklanguage (Mohawk Language XR) Repo
+- [x] Setup Mohawk Language XR Sponsor Options
 - [x] Add ReadMe
 - [ ] Add Changelog
 - [x] Add back to top links
@@ -173,7 +174,7 @@ See the [open issues](https://github.com/monigarr/mohawklanguage/issues) for a f
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## CONTRIBUTING
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -191,7 +192,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+## LICENSE
 
 Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE.txt` for more information.
 
@@ -200,7 +201,7 @@ Distributed under the GNU Affero General Public License v3.0 License. See `LICEN
 
 
 <!-- CONTACT -->
-## Contact
+## CONTACT
 
 MoniGarr - [@monigarr](https://twitter.com/monigarr) - monigarr@monigarr.com
 
@@ -211,7 +212,7 @@ Mohawk Language XR Project: [https://github.com/monigarr/mohawklanguage](https:/
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## ACKNOWLEDGEMENTS
 O:nen kati skanikonren teiotinonhweraton ne : 
 
 Nia:wen / gratitude to all the following. I acknowledge that you are often not mentioned nor acknowledged during events & meetings where many people gather to work on Kanien'keha Revival & Retention projects. 
