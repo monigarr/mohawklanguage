@@ -108,7 +108,7 @@ This section lists major requirements / frameworks / libraries used to bootstrap
 * [![Git]][Git-url]
 * [![GitDocs]][GitDocs-url]
 * [![Google AI]][GoogleAI-url]
-* [![[Google VR SDKs]][GoogleVRSDKs-url]]
+* [![Google VR SDKs]][GoogleVRSDKs-url]
 * [![Kotlin]][Kotlin-url]
 * [![Krita]][Krita-url]
 * [![MetaAI]][MetaAI-url]
