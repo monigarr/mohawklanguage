@@ -76,7 +76,7 @@ Mohawk Language XR projects
 <!-- ABOUT THE PROJECT -->
 ## About Mohawk Language XR
 
-[![Product Name Screen Shot][product-screenshot]](Screenshot 2022-08-18 020221.png)
+<!-- TODO: Update image [![Product Name Screen Shot][product-screenshot]](Screenshot 2022-08-18 020221.png)-->
 
 
 Why this Mohawk Language XR github repo?
