@@ -23,7 +23,7 @@ Mohawk Language XR projects
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/monigarr/mohawklanguage">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -114,7 +114,7 @@ To get a local copy of ’mohawklanguage’ up and running follow these simple e
 
 ### Prerequisites
 
-Equipment, Software, Licenses Required
+#TODO: List Equipment, Software, Licenses Required
 
 ### Installation
 
@@ -229,7 +229,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/monigarr
 [product-screenshot]: images/screenshot.png
 [UE-url]: https://www.unrealengine.com?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Unity3D-url]: https://unity3d.com/
+[Unity-url]: https://unity3d.com/
 [Blender-url]: https://blender.org?style=for-the-badge&logo=react&logoColor=61DAFB
 [Daz-url]: https://daz3d.com/
-̱[̱MohawkLanguage-url]: https://mohawklanguage.ca/
+[MohawkLanguage-url]: https://mohawklanguage.ca
