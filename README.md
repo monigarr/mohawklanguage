@@ -79,10 +79,11 @@ Mohawk Language XR projects: Kanien’keha templates for augmented reality, virt
 <!-- TODO: Update image [![Product Name Screen Shot][product-screenshot]](Screenshot 2022-08-18 020221.png)-->
 
 
-Why this Mohawk Language XR github repo?
+Why Mohawk Language XR?
 * Focus your time & efforts on creating amazing Kanien’kéha Revival & Retention content, projects, features.
-* Use templates that have been researched, documented, tested and verified by experienced tech professionals & language revivalists.
+* Use templates that have been researched, documented, tested and verified by experienced professional fluent speakers, software engineers, ai / ml engineers & language revivalists.
 * DRY Principles are being shared for everyone’s benefit (DRY: Do Not Repeat Yourself).
+* XR is proven by Akwesasneron teams and world-wide research teams to Increase speed of learning new topics and Increase memory retention! 
 
 MoniGarr’s team will add more templates & resources as folks let us know what works best for their own situations. You can suggest changes by forking this repo and creating a pull request or opening an issue.
 
