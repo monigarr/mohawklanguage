@@ -96,15 +96,20 @@ Use the `mohawklanguage` repo to get started.
 
 This section lists major requirements / frameworks / libraries used to bootstrap your project. Add-ons/plugins will be in the acknowledgements section.
 
+* [![Alicebot]][Alicebot-url]
+* [![Amazon AI]][AmazonAI-url
 * ̱̱̱̱̱[![Android Studio]][AndroidStudio-url]
 * [![Blender.org]][Blender-url]
 * [![Daz3D.com]][Daz-url]
 * [![Flutter]][Flutter-url]
 * [![Git]][Git-url]
 * [![GitDocs]][GitDocs-url]
+* [![Google AI]][GoogleAI-url]
 * [![Kotlin]][Kotlin-url]
 * [![Krita]][Krita-url]
+* [![MetaAI]][MetaAI-url]
 * [![MohawkLanguage.ca]][MohawkLanguage-url]
+* [![Nvidia AI][NvidiaAI-url]
 * [![Swift]][Swift-url]
 * [![̱UnRealEngine.com]][UE-url]
 * [![Unity3D.com]][Unity-url]
@@ -124,7 +129,6 @@ To get a local copy of ’mohawklanguage’ up and running follow these simple e
 
 #TODO: List Equipment, Software, Licenses Required
 * GitHub Account
-* Membership with Kanien'k
 
 ### Installation
 
@@ -158,6 +162,7 @@ To get a local copy of ’mohawklanguage’ up and running follow these simple e
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add Examples
 - [ ] Add Online Tech Training Calendar 
+- [ ] Add Suggested Reading / Training Links
 - [ ] Multi-language Support
     - [ ] Kanien’kéha
 
@@ -209,7 +214,8 @@ Mohawk Language XR Project: [https://github.com/monigarr/mohawklanguage](https:/
 ## Acknowledgments
 O:nen kati skanikonren teiotinonhweraton ne : 
 
-Nia:wen / gratitude to all the following:
+Nia:wen / gratitude to all the following. I acknowledge that you are often not mentioned nor acknowledged during events & meetings where many people gather to work on Kanien'keha Revival & Retention projects. 
+I hope every one of you know that you are valued, precious and so very much appreciated! 
 
 * Kanien'kéha, Haudenosaunee, Mohawk, Onkwehonwe Survivors of Indian Residential Schools, Day Schools, 60s / 70s / 80s / 90s modern day Scoops, Systemic Genocidal Policies & Organizations...
 * Kanien’kéha speakers, mentors, teachers, students, supporters.
@@ -236,14 +242,19 @@ Nia:wen / gratitude to all the following:
 [license-url]: https://github.com/monigarr/mohawklanguage/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/monigarr
+[Alicebot-url]: https://www.alicebot.org
+[AmazonAI-url]: https://aws.amazon.com/ai/
 [AndroidStudio-url]: https://developer.android.com/studio
 [Blender-url]: https://www.blender.org
 [Daz-url]: https://www.daz3d.com
 [Flutter-url]: https://flutter.dev/
 [Git-url]: https://git-scm.com/
 [GitDocs-url]: https://docs.github.com/en
+[GoogleAI-url]: https://ai.google/
 [Kotlin-url]: https://kotlinlang.org/
 [Krita-url]: https://krita.org
+[MetaAI-url]: https://ai.facebook.com/
+[NvidiaAI-url]: https://www.nvidia.com/en-us/launchpad/ai/
 [MohawkLanguage-url]: https://www.mohawklanguage.ca
 [Swift-url]: https://www.swift.org/
 [UE-url]: https://www.unrealengine.com
