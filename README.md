@@ -187,9 +187,9 @@ Distributed under the GNU Affero General Public License v3.0 License. See `LICEN
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@monigarr](https://twitter.com/monigarr) - monigarr@monigarr.com
+MoniGarr - [@monigarr](https://twitter.com/monigarr) - monigarr@monigarr.com
 
-Project Link: [https://github.com/monigarr/mohawklanguage](https://github.com/monigarr/mohawklanguage)
+Mohawk Language XR Project: [https://github.com/monigarr/mohawklanguage](https://github.com/monigarr/mohawklanguage)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
