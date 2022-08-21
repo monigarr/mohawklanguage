@@ -24,7 +24,7 @@ Mohawk Language XR projects: Kanien’keha templates for augmented reality, virt
 <br />
 <div align="center">
   <a href="https://github.com/monigarr/mohawklanguage">
-    <img src="Screenshot 2022-08-18 020221.png" alt="Logo" width="80" height="80">
+    <img src="/images/MohawkLanguageXR_Logo1.png" alt="MohawkLanguageXRLogo" width="80" height="80">
   </a>
 
   <h3 align="center">README</h3>
