@@ -2,7 +2,8 @@
 #
 #  Stable Diffusion Tutorial
 #  from MoniGarr.com
-#  Tutorial Link: https://wp.me/p2mXO3-1gF
+#  Tutorial Link: 
+#	https://medium.com/@monigarr_3883/how-to-install-and-run-stable-diffusion-on-your-windows-pc-ca43e6beb150
 # 
 #--------------------------------------------------------
 
